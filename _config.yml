@@ -1,0 +1,14 @@
+title: Daily News
+description: ChatGPTが毎朝まとめるニュース
+lang: ja
+timezone: Asia/Tokyo
+theme: minima
+
+author:
+  name: atzroh
+
+header_pages:
+  - about.md
+
+show_excerpts: true
+permalink: /news/:year/:month/:day/

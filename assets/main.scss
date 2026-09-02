@@ -31,6 +31,10 @@ body { color: var(--ink); background: #fff; font-family: -apple-system, BlinkMac
 .post-title, .post-content h1, .post-content h2, .post-content h3 { font-family: "Noto Sans JP", sans-serif; }
 .post-content { max-width: 720px; }
 .site-footer { border-top: 1px solid var(--line); }
+.site-footer .footer-heading, .site-footer .footer-col-1, .site-footer .footer-col-2 { display: none; }
+.site-footer .footer-col-wrapper { display: block; }
+.site-footer .footer-col-3 { float: none; width: auto; }
+.site-footer .footer-col-3 p { color: var(--muted); font-size: .78rem; letter-spacing: .08em; text-align: center; }
 .footer-heading { font-family: Georgia, "Times New Roman", serif; letter-spacing: .1em; }
 .archive-page h1, .about-page h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; letter-spacing: .1em; }
 .about-content { margin-top: 2.5rem; }

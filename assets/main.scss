@@ -32,5 +32,5 @@ body { color: var(--ink); background: #fff; font-family: -apple-system, BlinkMac
 .post-content { max-width: 720px; }
 .site-footer { border-top: 1px solid var(--line); }
 .footer-heading { font-family: Georgia, "Times New Roman", serif; letter-spacing: .1em; }
-.archive-page h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; letter-spacing: .1em; }
+.archive-page h1, .about-page h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; letter-spacing: .1em; }
 @media (max-width: 600px) { .page-content { padding-top: 2.2rem; } .site-title { font-size: 1.15rem; } .site-nav .page-link { padding: 8px 6px; } }

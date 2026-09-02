@@ -3,39 +3,55 @@
 @import "minima";
 
 :root {
-  --ink: #17151b;
-  --muted: #6e6876;
-  --lavender: #f0eafa;
-  --purple: #604779;
-  --line: #e5deee;
+  --ink: #172033;
+  --muted: #667085;
+  --surface: #ffffff;
+  --canvas: #f6f8fb;
+  --accent: #087f8c;
+  --accent-soft: #e7f6f5;
+  --line: #e3e8ef;
 }
 
-body { color: var(--ink); background: #fff; font-family: -apple-system, BlinkMacSystemFont, "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif; }
-.site-header { border-top: 0; border-bottom: 1px solid var(--line); }
-.site-title { font-family: Georgia, "Times New Roman", serif; font-size: 1.45rem; letter-spacing: .16em; font-weight: 400; }
-.site-nav .page-link { color: var(--ink); font-size: .78rem; letter-spacing: .12em; }
-.site-nav .page-link:hover, a:hover { color: var(--purple); text-decoration: none; }
-.page-content { padding: 3.5rem 0; }
-.home-intro { margin-bottom: 3rem; }
-.home-intro h1 { margin-bottom: .45rem; font-family: Georgia, "Times New Roman", serif; font-size: clamp(2rem, 5vw, 3.2rem); font-weight: 400; letter-spacing: .12em; }
-.tagline { color: var(--muted); font-size: .82rem; letter-spacing: .04em; }
-.archive-year { margin: 2.5rem 0 1rem; font-family: Georgia, "Times New Roman", serif; font-size: 1.35rem; font-weight: 400; letter-spacing: .06em; }
-.month-group { border-top: 1px solid var(--line); }
-.month-group summary { padding: .9rem .75rem; background: var(--lavender); color: var(--ink); cursor: pointer; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: .85rem; letter-spacing: .08em; list-style-position: inside; }
-.month-group summary:hover { color: var(--purple); }
+body { color: var(--ink); background: var(--canvas); font-family: Inter, -apple-system, BlinkMacSystemFont, "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif; line-height: 1.75; }
+a { color: var(--accent); text-underline-offset: .18em; }
+a:hover { color: #05636e; text-decoration-thickness: 2px; }
+a:focus-visible, summary:focus-visible { border-radius: 4px; outline: 3px solid rgba(8, 127, 140, .28); outline-offset: 3px; }
+.site-header { background: rgba(255, 255, 255, .94); border-top: 0; border-bottom: 1px solid var(--line); }
+.site-title { color: var(--ink) !important; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; font-size: 1.05rem; font-weight: 750; letter-spacing: .1em; }
+.site-nav .page-link { color: var(--muted); font-size: .77rem; font-weight: 700; letter-spacing: .1em; }
+.site-nav .page-link:hover { color: var(--accent); text-decoration: none; }
+.page-content { min-height: 60vh; padding: 4.5rem 0 5rem; }
+.page-content .wrapper { box-sizing: border-box; max-width: 860px; }
+.home-intro, .archive-page > h1, .about-page > h1 { margin-bottom: 2.75rem; }
+.home-intro { border-left: 4px solid var(--accent); padding-left: 1.35rem; }
+.home-intro h1, .archive-page h1, .about-page h1 { color: var(--ink); font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; font-size: clamp(2rem, 4vw, 2.8rem); font-weight: 780; letter-spacing: -.045em; line-height: 1.12; }
+.home-intro h1 { margin-bottom: .65rem; }
+.tagline { color: var(--muted); font-size: .94rem; letter-spacing: 0; line-height: 1.6; }
+.archive-page > .tagline, .about-page > .tagline { margin-top: -2rem; margin-bottom: 2.75rem; }
+.archive-year { align-items: center; color: var(--ink); display: flex; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; font-size: 1rem; font-weight: 750; gap: .75rem; letter-spacing: .02em; margin: 3rem 0 1rem; }
+.archive-year::after { background: var(--line); content: ""; flex: 1; height: 1px; }
+.month-group { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 1px 2px rgba(16, 24, 40, .03); margin: .7rem 0; overflow: hidden; transition: border-color .18s ease, box-shadow .18s ease; }
+.month-group[open] { border-color: #b9dedc; box-shadow: 0 8px 20px rgba(16, 24, 40, .05); }
+.month-group summary { align-items: center; background: var(--surface); color: var(--ink); cursor: pointer; display: flex; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; font-size: .88rem; font-weight: 700; justify-content: space-between; letter-spacing: .02em; list-style: none; padding: 1rem 1.2rem; }
+.month-group summary::-webkit-details-marker { display: none; }
+.month-group summary::after { color: var(--accent); content: "+"; font-size: 1.25rem; font-weight: 400; line-height: 1; }
+.month-group[open] summary { background: var(--accent-soft); }
+.month-group[open] summary::after { content: "−"; }
+.month-group summary:hover { color: var(--accent); }
 .post-list { list-style: none; margin: 0; padding: 0; }
-.post-list li { border-bottom: 1px solid var(--line); }
-.post-list a { display: block; padding: 1rem .75rem; color: var(--ink); font-family: "Noto Sans JP", sans-serif; font-size: 1rem; }
-.post-list a:hover { background: #faf8fd; color: var(--purple); }
-.post-meta { color: var(--muted); font-size: .8rem; letter-spacing: .06em; }
-.post-title, .post-content h1, .post-content h2, .post-content h3 { font-family: "Noto Sans JP", sans-serif; }
+.post-list li { border-top: 1px solid var(--line); }
+.post-list a { color: var(--ink); display: block; font-family: Inter, -apple-system, BlinkMacSystemFont, "Noto Sans JP", sans-serif; font-size: .98rem; font-weight: 550; padding: 1rem 1.2rem; text-decoration: none; transition: background .18s ease, color .18s ease, padding-left .18s ease; }
+.post-list a:hover { background: #f8fbfb; color: var(--accent); padding-left: 1.45rem; }
+.post-meta { color: var(--muted); font-size: .8rem; letter-spacing: .04em; }
+.post-title, .post-content h1, .post-content h2, .post-content h3 { color: var(--ink); font-family: Inter, -apple-system, BlinkMacSystemFont, "Noto Sans JP", sans-serif; }
 .post-content { max-width: 720px; }
-.site-footer { border-top: 1px solid var(--line); }
+.post-content h2 { border-bottom: 1px solid var(--line); font-size: 1.35rem; margin-top: 2.6rem; padding-bottom: .55rem; }
+.post-content blockquote { border-left-color: var(--accent); color: var(--muted); }
+.post-content code { background: var(--accent-soft); border-radius: 4px; color: #075a63; padding: .12em .35em; }
+.site-footer { background: var(--surface); border-top: 1px solid var(--line); }
 .site-footer .footer-heading, .site-footer .footer-col-1, .site-footer .footer-col-2 { display: none; }
 .site-footer .footer-col-wrapper { display: block; }
 .site-footer .footer-col-3 { float: none; width: auto; }
-.site-footer .footer-col-3 p { color: var(--muted); font-size: .78rem; letter-spacing: .08em; text-align: center; }
-.footer-heading { font-family: Georgia, "Times New Roman", serif; letter-spacing: .1em; }
-.archive-page h1, .about-page h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; letter-spacing: .1em; }
+.site-footer .footer-col-3 p { color: var(--muted); font-size: .75rem; font-weight: 650; letter-spacing: .1em; text-align: center; text-transform: uppercase; }
 .about-content { margin-top: 2.5rem; }
-@media (max-width: 600px) { .page-content { padding-top: 2.2rem; } .site-title { font-size: 1.15rem; } .site-nav .page-link { padding: 8px 6px; } }
+@media (max-width: 600px) { .page-content { padding: 3.25rem 0 4rem; } .home-intro, .archive-page > h1, .about-page > h1 { margin-bottom: 2.25rem; } .site-title { font-size: .95rem; } .site-nav .page-link { padding: 8px 6px; } .month-group summary, .post-list a { padding-left: 1rem; padding-right: 1rem; } }

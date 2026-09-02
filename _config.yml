@@ -8,7 +8,9 @@ author:
   name: atzroh
 
 header_pages:
+  - latest.md
+  - archive.md
   - about.md
 
-show_excerpts: true
+show_excerpts: false
 permalink: /news/:year/:month/:day/

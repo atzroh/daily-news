@@ -36,6 +36,7 @@ a:focus-visible, summary:focus-visible { border-radius: var(--radius-small); out
 
 .page-content { min-height: 60vh; padding: 4.5rem 0 5rem; }
 .page-content .wrapper { box-sizing: border-box; max-width: var(--content-width); }
+.home { max-width: var(--article-width); }
 
 .home-intro, .post-header { border-left: 4px solid var(--accent); box-sizing: border-box; margin-bottom: var(--section-space); padding-left: 1.35rem; }
 .post-header { max-width: var(--article-width); }

@@ -58,7 +58,7 @@ a:focus-visible, summary:focus-visible { border-radius: var(--radius-small); out
 .month-group summary:hover { color: var(--accent); }
 
 .post-list { list-style: none; margin: 0; padding: 0; }
-.post-list li { border-top: 1px solid var(--line); }
+.post-list > li { border-top: 1px solid var(--line); margin-bottom: 0; }
 .post-list a { color: var(--ink); display: block; font-size: .98rem; font-weight: 550; padding: 1rem 1.2rem; text-decoration: none; transition: background var(--transition), color var(--transition), padding-left var(--transition); }
 .post-list a:hover { background: #f8fbfb; color: var(--accent); padding-left: 1.45rem; }
 

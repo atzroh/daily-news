@@ -3,6 +3,7 @@ layout: post
 title: "How We Got Here: The World and Japan"
 date: 2026-09-03 16:01:39 +0900
 categories: [news]
+permalink: /news/how-we-got-here/
 ---
 
 ## Top Stories in 3 Minutes

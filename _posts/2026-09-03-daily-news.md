@@ -25,14 +25,14 @@ categories: [news]
 
 ## Economic Dashboard
 
-| Indicator | Latest | Change | Why It Matters |
-| --- | ---: | ---: | --- |
-| USD/JPY | 158.92円 | -0.79% | 円高は輸入物価を抑えやすい |
-| Nikkei 225 | 64,325.64 | -2.85% | 日本企業への期待を示す目安 |
-| S&P 500 | 7,666.60 | +0.46% | 米国経済と世界株式の基準の一つ |
-| Japan 10Y Yield | 3.02% | +0.02pt | 住宅ローンや企業の借入コストに関係 |
-| WTI Crude Oil | 91.01ドル | +0.9% | ガソリン代や物流費に影響 |
-| Bitcoin | 77,415ドル | +0.04% | 投資家がリスクを取りやすいかの参考 |
+| Indicator | Latest | Change |
+| --- | ---: | ---: |
+| USD/JPY | 158.92円 | -0.79% |
+| Nikkei 225 | 64,325.64 | -2.85% |
+| S&P 500 | 7,666.60 | +0.46% |
+| Japan 10Y Yield | 3.02% | +0.02pt |
+| WTI Crude Oil | 91.01ドル | +0.9% |
+| Bitcoin | 77,415ドル | +0.04% |
 
 数値は2026年9月3日05時46分ごろの日本時間で確認しました．日経平均と日本10年国債は9月2日の値，S&P 500とWTIは9月2日の米国市場終値，ドル円とBitcoinは確認時点の最新値です．情報源は[Reutersの為替報道](https://www.reuters.com/world/china/dollar-holds-firm-middle-east-hostilities-lift-oil-2026-09-02/)，[日経平均プロフィル](https://indexes.nikkei.co.jp/nkave/archives/data)，[Trading Economicsの日本10年国債](https://tradingeconomics.com/japan/government-bond-yield)，[APの米国株終値](https://apnews.com/article/wall-street-stocks-dow-nasdaq-7cb0aefedfd933d048b8b3e5843449f8)，[Reutersの原油終値](https://www.reuters.com/business/energy/oil-up-nearly-1-us-iran-trade-fresh-strikes-2026-09-02/)，市場データです．
 

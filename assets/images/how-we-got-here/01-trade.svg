@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+<title id="title">Trade and Trust</title>
+<desc id="desc">国境を越える分業：生産と販売の選択肢が広がる．次に，貿易摩擦・供給停止への不安：安さに加えて安定性も重視．次に，調達先や工場の場所を見直す：商品の価格と地域の雇用に影響．背景を理解するための模式図です．</desc>
+<rect width="640" height="480" rx="20" fill="#f4f1e9"/>
+<g font-family="'Noto Sans CJK JP','Noto Sans JP','Yu Gothic',Meiryo,sans-serif">
+<text x="32" y="38" font-size="17" font-weight="700" letter-spacing="2" fill="#316c72">WORLD / 01</text>
+<text x="32" y="69" font-size="26" font-weight="700" fill="#172b3b">Trade and Trust</text>
+<rect x="32" y="90" width="576" height="94" rx="12" fill="#ffffff" stroke="#ddd8ca"/>
+<text x="320" y="126" text-anchor="middle" font-size="26" font-weight="700" fill="#172b3b">国境を越える分業</text>
+<text x="320" y="159" text-anchor="middle" font-size="22" fill="#536675">生産と販売の選択肢が広がる</text>
+<path d="M320 189v11m-6-5 6 6 6-6" fill="none" stroke="#6d878b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="209" width="576" height="94" rx="12" fill="#ffffff" stroke="#ddd8ca"/>
+<text x="320" y="245" text-anchor="middle" font-size="26" font-weight="700" fill="#172b3b">貿易摩擦・供給停止への不安</text>
+<text x="320" y="278" text-anchor="middle" font-size="22" fill="#536675">安さに加えて安定性も重視</text>
+<path d="M320 308v11m-6-5 6 6 6-6" fill="none" stroke="#6d878b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="328" width="576" height="94" rx="12" fill="#173f4b" stroke="#173f4b"/>
+<text x="320" y="364" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">調達先や工場の場所を見直す</text>
+<text x="320" y="397" text-anchor="middle" font-size="22" fill="#d8ebe8">商品の価格と地域の雇用に影響</text>
+<text x="32" y="456" font-size="17" fill="#536675">説明用の模式図 / ATZROH DAILY</text>
+</g>
+</svg>

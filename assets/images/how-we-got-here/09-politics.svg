@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+<title id="title">Politics and Budgets</title>
+<desc id="desc">連立の組み替えと衆院選：政権を支える枠組みが変化．次に，成長投資と負担軽減を掲げる：政策案を予算や法律で具体化．次に，家計と企業への効果を確認：開始時期・対象・財源を見る．背景を理解するための模式図です．</desc>
+<rect width="640" height="480" rx="20" fill="#f4f1e9"/>
+<g font-family="'Noto Sans CJK JP','Noto Sans JP','Yu Gothic',Meiryo,sans-serif">
+<text x="32" y="38" font-size="17" font-weight="700" letter-spacing="2" fill="#316c72">JAPAN / 09</text>
+<text x="32" y="69" font-size="26" font-weight="700" fill="#172b3b">Politics and Budgets</text>
+<rect x="32" y="90" width="576" height="94" rx="12" fill="#ffffff" stroke="#ddd8ca"/>
+<text x="320" y="126" text-anchor="middle" font-size="26" font-weight="700" fill="#172b3b">連立の組み替えと衆院選</text>
+<text x="320" y="159" text-anchor="middle" font-size="22" fill="#536675">政権を支える枠組みが変化</text>
+<path d="M320 189v11m-6-5 6 6 6-6" fill="none" stroke="#6d878b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="209" width="576" height="94" rx="12" fill="#ffffff" stroke="#ddd8ca"/>
+<text x="320" y="245" text-anchor="middle" font-size="26" font-weight="700" fill="#172b3b">成長投資と負担軽減を掲げる</text>
+<text x="320" y="278" text-anchor="middle" font-size="22" fill="#536675">政策案を予算や法律で具体化</text>
+<path d="M320 308v11m-6-5 6 6 6-6" fill="none" stroke="#6d878b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="328" width="576" height="94" rx="12" fill="#173f4b" stroke="#173f4b"/>
+<text x="320" y="364" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">家計と企業への効果を確認</text>
+<text x="320" y="397" text-anchor="middle" font-size="22" fill="#d8ebe8">開始時期・対象・財源を見る</text>
+<text x="32" y="456" font-size="17" fill="#536675">説明用の模式図 / ATZROH DAILY</text>
+</g>
+</svg>

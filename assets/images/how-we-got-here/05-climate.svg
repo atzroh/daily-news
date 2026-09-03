@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+<title id="title">Climate and Daily Life</title>
+<desc id="desc">温室効果ガスによる温暖化：暑さや災害が生活・生産に影響．次に，排出削減と被害への備え：省エネ・発電・防災へ投資．次に，費用と効果を見極める：電気代・食料・働き方に関わる．背景を理解するための模式図です．</desc>
+<rect width="640" height="480" rx="20" fill="#f4f1e9"/>
+<g font-family="'Noto Sans CJK JP','Noto Sans JP','Yu Gothic',Meiryo,sans-serif">
+<text x="32" y="38" font-size="17" font-weight="700" letter-spacing="2" fill="#316c72">WORLD / 05</text>
+<text x="32" y="69" font-size="26" font-weight="700" fill="#172b3b">Climate and Daily Life</text>
+<rect x="32" y="90" width="576" height="94" rx="12" fill="#ffffff" stroke="#ddd8ca"/>
+<text x="320" y="126" text-anchor="middle" font-size="26" font-weight="700" fill="#172b3b">温室効果ガスによる温暖化</text>
+<text x="320" y="159" text-anchor="middle" font-size="22" fill="#536675">暑さや災害が生活・生産に影響</text>
+<path d="M320 189v11m-6-5 6 6 6-6" fill="none" stroke="#6d878b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="209" width="576" height="94" rx="12" fill="#ffffff" stroke="#ddd8ca"/>
+<text x="320" y="245" text-anchor="middle" font-size="26" font-weight="700" fill="#172b3b">排出削減と被害への備え</text>
+<text x="320" y="278" text-anchor="middle" font-size="22" fill="#536675">省エネ・発電・防災へ投資</text>
+<path d="M320 308v11m-6-5 6 6 6-6" fill="none" stroke="#6d878b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="328" width="576" height="94" rx="12" fill="#173f4b" stroke="#173f4b"/>
+<text x="320" y="364" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">費用と効果を見極める</text>
+<text x="320" y="397" text-anchor="middle" font-size="22" fill="#d8ebe8">電気代・食料・働き方に関わる</text>
+<text x="32" y="456" font-size="17" fill="#536675">説明用の模式図 / ATZROH DAILY</text>
+</g>
+</svg>

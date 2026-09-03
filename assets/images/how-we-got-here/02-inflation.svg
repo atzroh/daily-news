@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+<title id="title">Crisis and Inflation</title>
+<desc id="desc">金融危機とコロナ危機：政府と中央銀行が経済を支援．次に，物不足と需要の回復：買いたい量に供給が追いつかない．次に，物価上昇に利上げで対応：物価と雇用の両方を見極める．背景を理解するための模式図です．</desc>
+<rect width="640" height="480" rx="20" fill="#f4f1e9"/>
+<g font-family="'Noto Sans CJK JP','Noto Sans JP','Yu Gothic',Meiryo,sans-serif">
+<text x="32" y="38" font-size="17" font-weight="700" letter-spacing="2" fill="#316c72">WORLD / 02</text>
+<text x="32" y="69" font-size="26" font-weight="700" fill="#172b3b">Crisis and Inflation</text>
+<rect x="32" y="90" width="576" height="94" rx="12" fill="#ffffff" stroke="#ddd8ca"/>
+<text x="320" y="126" text-anchor="middle" font-size="26" font-weight="700" fill="#172b3b">金融危機とコロナ危機</text>
+<text x="320" y="159" text-anchor="middle" font-size="22" fill="#536675">政府と中央銀行が経済を支援</text>
+<path d="M320 189v11m-6-5 6 6 6-6" fill="none" stroke="#6d878b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="209" width="576" height="94" rx="12" fill="#ffffff" stroke="#ddd8ca"/>
+<text x="320" y="245" text-anchor="middle" font-size="26" font-weight="700" fill="#172b3b">物不足と需要の回復</text>
+<text x="320" y="278" text-anchor="middle" font-size="22" fill="#536675">買いたい量に供給が追いつかない</text>
+<path d="M320 308v11m-6-5 6 6 6-6" fill="none" stroke="#6d878b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="328" width="576" height="94" rx="12" fill="#173f4b" stroke="#173f4b"/>
+<text x="320" y="364" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">物価上昇に利上げで対応</text>
+<text x="320" y="397" text-anchor="middle" font-size="22" fill="#d8ebe8">物価と雇用の両方を見極める</text>
+<text x="32" y="456" font-size="17" fill="#536675">説明用の模式図 / ATZROH DAILY</text>
+</g>
+</svg>

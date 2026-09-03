@@ -22,7 +22,7 @@ permalink: /news/how-we-got-here/
 
 ### 世界は安さを求めてつながり，供給の安全も重視するようになった
 
-![国際分業の拡大から貿易摩擦を経て調達先の見直しへ進む流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/01-trade.svg)
+![国際分業の拡大から貿易摩擦を経て調達先の見直しへ進む流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/01-trade.svg)
 
 **Date:** 2001年12月11日：中国のWTO加盟／2025年4月2日：米国の相互関税発表／2026年2月20日：米最高裁判決
 
@@ -44,7 +44,7 @@ permalink: /news/how-we-got-here/
 
 ### 金融危機とコロナ危機を経て，景気対策から物価対策へ移った
 
-![金融危機への支援とコロナ後の物不足を経て利上げに至る流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/02-inflation.svg)
+![金融危機への支援とコロナ後の物不足を経て利上げに至る流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/02-inflation.svg)
 
 **Date:** 2008年9月：金融危機の深刻化／2020年：新型コロナの世界的流行／2022年3月：米国の利上げ開始
 
@@ -65,7 +65,7 @@ FRBは当初，値上がりは一時的と考えましたが，長引いたた�
 
 ### ウクライナ侵攻で，欧州の安全保障とエネルギー調達が変わった
 
-![ウクライナ侵攻から制裁と燃料調達の変更へ至る流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/03-ukraine.svg)
+![ウクライナ侵攻から制裁と燃料調達の変更へ至る流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/03-ukraine.svg)
 
 **Date:** 2014年：ロシアによるクリミアの違法な併合／2022年2月24日：全面侵攻開始／2026年7月23日：EUの追加制裁
 
@@ -86,7 +86,7 @@ EUは2026年7月にも追加制裁を採択しました．銀行，エネルギ�
 
 ### 中東では，人道危機とエネルギー輸送の混乱が重なった
 
-![中東の戦争が人道危機と海上輸送の混乱を通じて暮らしに影響する流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/04-middle-east.svg)
+![中東の戦争が人道危機と海上輸送の混乱を通じて暮らしに影響する流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/04-middle-east.svg)
 
 **Date:** 2023年10月7日：ハマスによるイスラエル攻撃／2026年7月8日：中東の戦争を織り込んだIMF見通し
 
@@ -107,7 +107,7 @@ EUは2026年7月にも追加制裁を採択しました．銀行，エネルギ�
 
 ### 気候変動対策は，電力・産業・生活を組み替える課題になった
 
-![温暖化による被害と，排出削減・災害への備えの関係](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/05-climate.svg)
+![温暖化による被害と，排出削減・災害への備えの関係](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/05-climate.svg)
 
 **Date:** 2015年12月12日：パリ協定採択／2026年3月23日：WMOの2025年気候報告公表
 
@@ -129,7 +129,7 @@ EUは2026年7月にも追加制裁を採択しました．銀行，エネルギ�
 
 ### 日本は，物価と給料が動かない時代から転換しつつある
 
-![日本の物価と賃金の停滞から，賃上げと金利の見直しへ至る流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/06-japan-wages.svg)
+![日本の物価と賃金の停滞から，賃上げと金利の見直しへ至る流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/06-japan-wages.svg)
 
 **Date:** 1990年代：バブル崩壊後の調整／2024年3月19日：日銀のマイナス金利政策終了決定
 
@@ -150,7 +150,7 @@ EUは2026年7月にも追加制裁を採択しました．銀行，エネルギ�
 
 ### 人口減少で，働き手と公共サービスの支え方が変わっている
 
-![人口減少と高齢化が働き手，子育て，医療や交通に結びつく流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/07-population.svg)
+![人口減少と高齢化が働き手，子育て，医療や交通に結びつく流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/07-population.svg)
 
 **Date:** 長期的な人口減少・高齢化／2026年8月20日：人口推計公表
 
@@ -171,7 +171,7 @@ EUは2026年7月にも追加制裁を採択しました．銀行，エネルギ�
 
 ### 震災後の日本は，電力の安全・価格・安定供給を同時に考えるようになった
 
-![震災後の電源の見直しから，省エネと電力確保の両立を考える流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/08-energy.svg)
+![震災後の電源の見直しから，省エネと電力確保の両立を考える流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/08-energy.svg)
 
 **Date:** 2011年3月11日：東日本大震災／2025年2月18日：第7次エネルギー基本計画の閣議決定
 
@@ -192,7 +192,7 @@ EUは2026年7月にも追加制裁を採択しました．銀行，エネルギ�
 
 ### 連立の組み替えと選挙を経て，日本政治は成長投資と負担軽減を掲げた
 
-![連立と選挙による政権基盤の変化が予算や生活支援へつながる流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/09-politics.svg)
+![連立と選挙による政権基盤の変化が予算や生活支援へつながる流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/09-politics.svg)
 
 **Date:** 2025年10月：連立の組み替え／2026年2月18日：第2次高市内閣発足
 
@@ -215,7 +215,7 @@ EUは2026年7月にも追加制裁を採択しました．銀行，エネルギ�
 
 ### 日本の安全保障は，防衛力と経済の備えを一緒に考える方向へ進んだ
 
-![安全保障環境の変化から，外交・防衛・経済の備えを見直す流れ](https://raw.githubusercontent.com/atzroh/daily-news/main/assets/images/how-we-got-here/10-security.svg)
+![安全保障環境の変化から，外交・防衛・経済の備えを見直す流れ](https://atzroh.github.io/daily-news/assets/images/how-we-got-here/10-security.svg)
 
 **Date:** 2022年12月16日：安全保障に関する3文書の決定／2026年2月18日：改定を急ぐ方針の表明
 

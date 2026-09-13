@@ -24,3 +24,5 @@ categories: [ニュース]
 ## 公開
 
 GitHub Pagesの公開元として `main` ブランチの `/ (root)` を使用します．
+
+<!-- redeploy: 2026-09-13 -->

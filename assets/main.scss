@@ -23,6 +23,7 @@
   --transition: .18s ease;
 }
 
+html { overflow-y: scroll; }
 body { background: var(--canvas); color: var(--ink); font-family: var(--font-sans); line-height: 1.75; }
 a { color: var(--accent); text-underline-offset: .18em; }
 a:hover { color: var(--accent-hover); text-decoration-thickness: 2px; }

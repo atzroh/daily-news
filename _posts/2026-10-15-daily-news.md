@@ -17,7 +17,7 @@ categories: [news]
 
 ### 米国の物価が予想より高く，S&P500は1.11%下落 ― AI・半導体株にも売り
 
-![物価高から株安へつながる流れの図](https://atzroh.github.io/daily-news/assets/images/2026-10-15/01-us-cpi.svg)
+![米連邦準備制度理事会（FRB）の本部ビル](https://upload.wikimedia.org/wikipedia/commons/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg)
 
 **日付：2026年10月14日（米国時間）**
 
@@ -47,7 +47,7 @@ categories: [news]
 
 ### 簗農相が辞表を提出，消費税減税法案は20日の審議入りを与党が提案
 
-![農相辞任と消費税減税法案の図](https://atzroh.github.io/daily-news/assets/images/2026-10-15/02-japan-politics.svg)
+![農林水産省（東京・霞が関）](https://upload.wikimedia.org/wikipedia/commons/6/6f/Norinsuisansho.jpg)
 
 **日付：2026年10月14日**
 
@@ -79,7 +79,7 @@ categories: [news]
 
 ### 小さなAIが家電の中で「自分をコピー」？ Anthropicの研究チームが警告
 
-![小型AIと身近な機器のリスクの図](https://atzroh.github.io/daily-news/assets/images/2026-10-15/03-ai-iot.svg)
+![Anthropicのロゴ](https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg)
 
 **日付：2026年10月12〜13日**
 

@@ -78,6 +78,12 @@ a:focus-visible, summary:focus-visible { border-radius: var(--radius-small); out
 .post-content blockquote { border-left-color: var(--accent); color: var(--muted); }
 .post-content code { background: var(--accent-soft); border-radius: var(--radius-small); color: #075a63; padding: .12em .35em; }
 
+.post-nav { border-top: 1px solid var(--line); display: flex; gap: 1rem; justify-content: space-between; margin-top: var(--section-space); max-width: var(--article-width); padding-top: 1.5rem; }
+.post-nav a { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); color: var(--ink); display: flex; flex: 0 1 48%; flex-direction: column; font-weight: 650; padding: .9rem 1.1rem; text-decoration: none; transition: border-color var(--transition), color var(--transition); }
+.post-nav a:hover { border-color: #b9dedc; color: var(--accent); }
+.post-nav-next { margin-left: auto; text-align: right; }
+.post-nav-label { color: var(--muted); font-size: .72rem; font-weight: 700; letter-spacing: .1em; }
+
 .site-footer { background: var(--surface); border-top: 1px solid var(--line); }
 .site-footer .footer-heading, .site-footer .footer-col-1, .site-footer .footer-col-2 { display: none; }
 .site-footer .footer-col-wrapper { display: block; }
@@ -92,4 +98,6 @@ a:focus-visible, summary:focus-visible { border-radius: var(--radius-small); out
   .site-nav .page-link { padding: 8px 6px; }
   .month-group summary, .post-list a { padding-left: 1rem; padding-right: 1rem; }
   .post-content td, .post-content th { padding: .6rem .7rem; }
+  .post-nav { flex-direction: column; }
+  .post-nav-next { margin-left: 0; }
 }
